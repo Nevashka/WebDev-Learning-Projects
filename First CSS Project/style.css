@@ -1,0 +1,46 @@
+
+body {
+	background-color: #d2d2c1;
+	background-image: url('Images/fundo.png');
+	background-repeat: repeat; /*It repeats automatically by default*/
+
+	font-family: 'Arial', Helvetica, sans-serif;
+	font-size: 16px;
+	text-align: justify;
+
+}
+
+a {
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+h1 {
+	color: #828271;
+	font-size: 1.2em;
+}
+
+#main {
+	width: 900px;
+}
+
+#menu {
+	background-color: #c5c5b2;
+	padding: 18px;
+}
+
+#content {
+	background-color: #e8e8d9;
+	padding: 10px;
+}
+
+#footer {
+	text-align: center;
+}
+
+.img-portfolio {
+	border: 10px solid #c3c3ae;
+	align-self: center;
+}
